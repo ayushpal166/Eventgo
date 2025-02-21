@@ -1,7 +1,10 @@
 import 'package:eventgo/admin/ticket_event.dart';
 import 'package:eventgo/admin/upload_event.dart';
+import 'package:eventgo/pages/book.dart';
+import 'package:eventgo/pages/booking.dart';
 import 'package:eventgo/pages/bottomnav.dart';
 import 'package:eventgo/pages/categories_event.dart';
+import 'package:eventgo/pages/detail_page.dart';
 import 'package:eventgo/pages/home.dart';
 import 'package:eventgo/pages/signup.dart';
 import 'package:eventgo/services/data.dart';
@@ -29,7 +32,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: BottomNav(),
+      home: Book(),
     );
   }
 }
