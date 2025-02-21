@@ -35,17 +35,34 @@
 
 ## 📸 Screenshots  
 
-### 🔹 Home Page  
-<img src="https://github.com/user-attachments/assets/97b52d66-204e-4ffd-abf2-a0d921878c74
-" alt="Home Page" width="600"/>  
+### 🔹 App Screens  
 
-### 🔹 Event Details Page  
-<img src="screenshots/event_details.png" alt="Event Details" width="500"/>  
-
-### 🔹 Booking Confirmation  
-<img src="screenshots/booking_confirmation.png" alt="Booking Confirmation" width="400"/>  
-
-
+<table>
+  <tr>
+    <td><img src="./screenshots/Signup_page.png" alt="Signup Page" width="200" height="425"/></td>
+    <td><img src="./screenshots/homepage.png" alt="Home Page" width="200" height="425"/></td>
+    <td><img src="./screenshots/event_detail.png" alt="Event detail" width="200" height="425"/></td>
+    <td><img src="./screenshots/ticket.png" alt="ticket Page" width="200" height="425"/></td>
+   
+    
+  </tr>
+  <tr>
+    <td align="center"><b>Signup Page</b></td>
+    <td align="center"><b>Home page</b></td>
+    <td align="center"><b>Event details</b></td>
+     <td align="center"><b>Ticket Page</b></td>
+     
+     
+  </tr>
+  <tr>
+     <td><img src="./screenshots/event_cate.png" alt="Event Category" width="200" height="425"/></td>
+    <td><img src="./screenshots/upload_event.png" alt="upload event" width="200" height="425"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Event categ</b></td>
+    <td align="center"><b>Upload event</b></td>
+  </tr>
+</table>
 ---
 
 ## 🔧 Installation & Setup  
