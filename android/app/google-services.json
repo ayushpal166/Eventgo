@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478199006378",
+    "project_id": "eventgoapp-2aa10",
+    "storage_bucket": "eventgoapp-2aa10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478199006378:android:daa19fc647ad32f355fcd3",
+        "android_client_info": {
+          "package_name": "com.example.eventgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478199006378-fuleeunsp77jmccgdf3lbdsfa21lalln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventgo",
+            "certificate_hash": "ba807ae3f1f6565e39eb4100c7119b224921bf3a"
+          }
+        },
+        {
+          "client_id": "478199006378-4oa8ii8k60ee3a5tucgk1jjo3kmo9vu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6fURxfRwbQjeMbVvBCU1wjKyEOAG3dT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478199006378-4oa8ii8k60ee3a5tucgk1jjo3kmo9vu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
