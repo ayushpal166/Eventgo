@@ -39,10 +39,10 @@
 
 <table>
   <tr>
-    <td><img src="./screenshots/Signup_page.png" alt="Signup Page" width="200" height="425"/></td>
-    <td><img src="./screenshots/homepage.png" alt="Home Page" width="200" height="425"/></td>
-    <td><img src="./screenshots/event_detail.png" alt="Event detail" width="200" height="425"/></td>
-    <td><img src="./screenshots/ticket.png" alt="ticket Page" width="200" height="425"/></td>
+    <td><img src="./screenshots/Signup_page.png" alt="Signup Page" width="215" height="425"/></td>
+    <td><img src="./screenshots/homepage.png" alt="Home Page" width="215" height="425"/></td>
+    <td><img src="./screenshots/event_detail.png" alt="Event detail" width="215" height="425"/></td>
+    <td><img src="./screenshots/ticket.png" alt="ticket Page" width="215" height="425"/></td>
    
     
   </tr>
@@ -55,8 +55,8 @@
      
   </tr>
   <tr>
-     <td><img src="./screenshots/event_cate.png" alt="Event Category" width="200" height="425"/></td>
-    <td><img src="./screenshots/upload_event.png" alt="upload event" width="200" height="425"/></td>
+     <td><img src="./screenshots/event_cate.png" alt="Event Category" width="215" height="425"/></td>
+    <td><img src="./screenshots/upload_event.png" alt="upload event" width="215" height="425"/></td>
   </tr>
   <tr>
     <td align="center"><b>Event categ</b></td>
