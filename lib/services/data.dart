@@ -1,4 +1,4 @@
 String secretKey =
-    "sk_test_51QseldCEU5CqUOlbMnq12DXwS4CqSianQHwGEyyaHKbpogawvsLB9rvX4N8pfgiPn3kQV6e0IxdPFnNBQe9Ktwb2004USXnZIN";
+    " ";
 String publishedKey =
-    "pk_test_51QseldCEU5CqUOlbfNQObK8TnRPqQNayGTRwbuwydN40fPmmqAgFACc4jI5OPb6V8YrBdWpM7rVQYySlZa0GSjZ400z0UDHhZq";
+    " ";
