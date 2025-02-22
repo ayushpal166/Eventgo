@@ -376,7 +376,7 @@ class _DetailPageState extends State<DetailPage> {
         Uri.parse('https://api.stripe.com/v1/payment_intents'),
         headers: {
           'Authorization':
-              'sk_test_51QseldCEU5CqUOlbMnq12DXwS4CqSianQHwGEyyaHKbpogawvsLB9rvX4N8pfgiPn3kQV6e0IxdPFnNBQe9Ktwb2004USXnZIN', // Replace with your actual Stripe Secret Key
+              ' ', // Replace with your actual Stripe Secret Key
           'Content-Type': 'application/x-www-form-urlencoded',
         },
         body: body,
